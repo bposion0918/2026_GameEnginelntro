@@ -1,2 +1,4 @@
-# 2026_GameEnginelntro
-게임엔집입문 프로젝트
+# 2026\_GameEnginelntro
+
+2026137062 홍준기
+
